@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Henkn\FilamentSendy\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentSendyCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-sendy';
 
     public $description = 'My command';
 
